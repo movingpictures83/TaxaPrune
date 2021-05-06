@@ -1,0 +1,2 @@
+Prefix plugins/TaxaPrune/example
+Plugin TaxaPrune inputfile parameters.prune.txt outputfile .
